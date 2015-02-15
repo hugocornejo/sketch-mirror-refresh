@@ -1,0 +1,8 @@
+//(alt command r)
+// Forces Mirror to Refresh the whole artboard
+
+var current_artboard = [[doc currentPage] currentArtboard];
+
+if (current_artboard != null) {
+  [current_artboard setName:[current_artboard name]];
+}
