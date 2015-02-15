@@ -10,7 +10,7 @@ Maybe it's just a placebo effect but I realised that chaning the name of the cur
 
 ## Usage
 
-**Plugins / Mirror Refresh** or <kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>R</kbd>
+**Plugins / Mirror Refresh** or **⌥⌘R**
 
 ## Questions
 
